@@ -1,5 +1,8 @@
 ![Image Alt Text](https://github.com/GayasuddinMohd/CodeClause_Stock_Market_Prediction/blob/main/1082094-top-wallstreet-wallpaper-2816x1880-macbook.jpg?raw=true)
 
+# Stock Market
+The stock market is where investors buy and sell shares of companies. It's a set of exchanges where companies issue shares and other securities for trading. It also includes over-the-counter (OTC) marketplaces where investors trade securities directly with each other (rather than through an exchange)
+
 # Stock Market Prediction
 Predicting stock prices is a challenging task in the realm of finance and data analysis. In this analysis, we will use the Linear Regression algorithm to predict the stock prices of Tata Consultancy Services (TCS) based on historical data. Linear Regression aims to establish a linear relationship between input variables (such as time) and the target variable (stock price).
 
