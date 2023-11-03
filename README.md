@@ -1,4 +1,4 @@
-![Image Alt Text](https://github.com/GayasuddinMohd/CodeClause_Stock_Market_Prediction/blob/main/1082094-top-wallstreet-wallpaper-2816x1880-macbook.jpg?raw=true)
+![Image Alt Text](https://wallpaperaccess.com/full/2597240.jpg)
 
 # 🌼  Stock Market  🌼
 The stock market is where investors buy and sell shares of companies. It's a set of exchanges where companies issue shares and other securities for trading. It also includes over-the-counter (OTC) marketplaces where investors trade securities directly with each other (rather than through an exchange)
