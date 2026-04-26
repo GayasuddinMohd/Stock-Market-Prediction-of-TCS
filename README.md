@@ -11,3 +11,10 @@ Predicting stock prices is a challenging task in the realm of finance and data a
  On that day the TCS stock price was open at 1998.00 (INR), and our model is predicting 2001.75159573 (INR).Hence we can say that our model is overall good in terms of prediction.
 
 
+# Visualizations
+
+### 📈 Actual vs Predicted Open Price
+![Actual vs Predicted](plot1_actual_vs_predicted.png)
+
+### 📉 Close Price Trend with Regression Line
+![Scatter Regression](plot2_scatter_regression.png)
